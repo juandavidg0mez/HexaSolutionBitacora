@@ -1,0 +1,2 @@
+# HexaSolutionBitacora
+Proyecto Hexa Solution
